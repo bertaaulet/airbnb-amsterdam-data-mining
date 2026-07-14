@@ -2,7 +2,7 @@
 
 Aquest repositori conté el codi font i la documentació del projecte final de l'assignatura PMAAD (Preprocessament i Models Avançats d'Anàlisi de Dades, UPC). L'objectiu és analitzar i extreure coneixement de negoci del mercat d'Airbnb al centre d'Amsterdam aplicant tècniques avançades de mineria de dades, geoestadística i anàlisi textual.
 
-![Dashboard Power BI](images/dashboard_powerbi_valor_preu.png)
+![Dashboard Power BI](images/04_dashboard_powerbi_valor_preu.png)
 
 
 
@@ -56,7 +56,7 @@ Modelatge espacial (Procés de Tipus I i II):
 *   **Kriging Ordinari:** Disseny i validació d'un model d'interpolació espacial per predir el preu dels allotjaments en malles regulars.
 *   **Processos de Punts:** Anàlisi de la intensitat i distribució geogràfica segregada per tipus d'amfitrió.
 
-![Mapa amb marca de Propietari](images/mapa_particulars_vs_professionals.png)
+![Mapa amb marca de Propietari](images/05_mapa_particulars_vs_professionals.png)
 
 ### PART IX: Textual Analysis
 Processament de Llenguatge Natural (NLP) sobre una mostra de 1.000 ressenyes d'usuaris:
@@ -64,7 +64,7 @@ Processament de Llenguatge Natural (NLP) sobre una mostra de 1.000 ressenyes d'u
 *   **LSA / MCA Adaptat:** Anàlisi de Correspondències Simple (CA) i CA-GALT per vincular els termes a variables categòriques suplementàries.
 *   **Topic Modelling (LDA):** *Latent Dirichlet Allocation* per descobrir els tòpics latents a les experiències dels usuaris.
 
-![Anàlisi Textual](images/lda_wordclouds.png)
+![Anàlisi Textual](images/07_lda_wordclouds.png)
 
 ### PART X: Gestió del Projecte i Conclusions
 *   **Gestió:** Resum del desenvolupament, incidències i eines de planificació (Gantt) utilitzades.
@@ -199,7 +199,7 @@ The analysis includes:
 * **Ordinary Kriging:** Development and validation of a spatial interpolation model for predicting Airbnb prices across a regular spatial grid.
 * **Spatial Point Processes:** Analysis of the geographical intensity and distribution of listings according to host type.
 
-![Host Type Map](images/mapa_particulars_vs_professionals.png)
+![Host Type Map](images/05_mapa_particulars_vs_professionals.png)
 
 ### Part IX – Textual Analysis
 
@@ -211,7 +211,7 @@ The workflow includes:
 * **Correspondence Analysis:** Standard Correspondence Analysis (CA) together with CA-GALT to relate textual terms with supplementary categorical variables.
 * **Topic Modeling (LDA):** Application of **Latent Dirichlet Allocation (LDA)** to identify the latent topics discussed by Airbnb guests.
 
-![Text Analysis](images/lda_wordclouds.png)
+![Text Analysis](images/07_lda_wordclouds.png)
 
 ### Part X – Project Management and Conclusions
 
