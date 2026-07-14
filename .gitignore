@@ -1,13 +1,19 @@
-# Historial i dades temporals d'R
+# R
 .Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
 *.Rproj
 
-# Fitxers ocults del sistema operatiu
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Sistema
 .DS_Store
 Thumbs.db
 
-# Dataset original
+# Datasets originals (no es versionen)
+data/listings.csv
 data/reviews.csv
