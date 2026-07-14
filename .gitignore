@@ -1,0 +1,13 @@
+# Historial i dades temporals d'R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Fitxers ocults del sistema operatiu
+.DS_Store
+Thumbs.db
+
+# Dataset original
+data/reviews.csv
